@@ -1,9 +1,7 @@
 # jigoku_tsushin_br
 
-Hotline to Hell
-
 Anime: Jigoku Shoujo (Hell Girl)
 
-Only works at midnight (00:00)!
+Só funciona à meia noite (00:00)
 
-Do your revenge...
+Nos vingaremos em seu nome, sua dor será aliviada.
